@@ -1,0 +1,139 @@
+{
+  "main": {
+    "name": "Sachin Jambur",
+    "occupation": "C# Developer && Musician!!",
+    "description": "Awesome Full Stack React Developer In Progress...",
+    "image": "IG_Sachin.jpeg",
+    "bio": "My name is Sachin, I'm a C# Developer. Currently I'm learning React at Clever Programmer ",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "sachinj150gmail.com",
+    "phone": "+1 987 654 3210",
+    "address": {
+      "street": "555 Rocky Avenue",
+      "city": "Calgary",
+      "state": "Alberta",
+      "zip": "A1B X2Y"
+    },
+    "website": "http://www.sachinjambur.com",
+    "resumedownload": "https://drive.google.com/file/d/1KnC7cxhcIeQdBgs6pPEeA7Y2vbZYyVlh/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/sachin.jambur/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/sjambur/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/sachinj150/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/sachinj150",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Karnataka State Open University",
+        "degree": "Masters in Science (Information Technology)",
+        "graduated": "June 2006",
+        "description": "Graduated with First Class"
+      }
+    ],
+    "work": [
+      {
+        "company": "Imperial Oil",
+        "title": "Team Member && Full Stack Developer",
+        "years": "Oct 2018 - Apr 2020",
+        "description": "Building tomorrow's downstream oil systems"
+      },
+      {
+        "company": "Getty Images",
+        "title": "Senior Software Engineer",
+        "years": "Nov 2017 - Oct 2018",
+        "description": "Creating scalable search and payment support systems"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "60%"
+      },
+      {
+        "name": "C#",
+        "level": "90%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": ".NET Core",
+        "level": "70%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "SQL Server",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Meal Ordering App",
+        "category": "Meal Order App API's built using .NET Core and Entity Framework",
+        "image": "meal-order-app.jpeg",
+        "url": "https://github.com/sachinj150/MealOrderApp"
+      },
+      {
+        "title": "Dating App",
+        "category": "Dating App built with Angular, .NET Core",
+        "image": "dating-app.jpg",
+        "url": "https://github.com/sachinj150/DatingApp"
+      },
+      {
+        "title": "Image Gallery App",
+        "category": "Image Gallery Security built using Microsoft Identity Manager",
+        "image": "image-gallery.jpg",
+        "url": "https://github.com/sachinj150/ImageGallery"
+      },
+      {
+        "title": "Pet Appointment App",
+        "category": "Pet Appointment App built using ReactJS",
+        "image": "pet-appointment.jpg",
+        "url": "https://github.com/sachinj150/reactinterface"
+      },
+      {
+        "title": "Card Dealer App",
+        "category": "Card Dealer App built using .NET Core",
+        "image": "card-dealer.jpg",
+        "url": "https://github.com/sachinj150/CardDealer"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Michael Jordan"
+      },
+      {
+        "text": "That Sachin Jambur must be one of the most brilliant developers I've ever met!",
+        "user": "Elon Musk... impersonator"
+      }
+    ]
+  }
+}
